@@ -36,5 +36,3 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
 ## Author 🙋‍♂️ : [Find Me Here](https://www.linkedin.com/in/nikhil-falke-1a3639200/)
-
-Co-authored-by: Assaf <alakeel@outlook.sa>
